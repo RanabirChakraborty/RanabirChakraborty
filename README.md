@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to paint and sketch [My Art Collection!][https://github.com/Ridetotheroots/artwork/blob/master/README.md]!
+- ⚡ Fun fact: I love to paint and sketch [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
 - 💪 Fitness freak
 - 👯 I’m looking to collaborate with other content creators
 
