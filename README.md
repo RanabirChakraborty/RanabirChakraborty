@@ -1,5 +1,5 @@
 ### Hi there, I'm Ranabir - aka Ridetotheroots <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-[<img align="right" width="200px" alt="Ranabir" src="/ranabir.jpg" />]
+[<img align="right" width="200px" alt="Ranabir" src="/ranabir.png" />]
 
 - 🌱 Checkout my recent blog [here](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should)
 - 🥅 2020 Goals: Contribute more to Open Source projects
