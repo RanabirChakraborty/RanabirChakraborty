@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" href="https://www.instagram.com/ridetotheroots/?hl=en" width="22px" alt="Ranabir's Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" href="https://www.youtube.com/watch?v=E-S5o_UZFgw&t=1s" width="22px" alt="Ranabir's Youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/Ridetotheroots" width="22px" alt="Ranabir's Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/ranabir-chakraborty-a71074b4/" width="22px" alt="Ranabir's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" alt="Ranabir's Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ridetotheroots/?hl=en)
+[<img align="left" width="22px" alt="Ranabir's Youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=E-S5o_UZFgw&t=1s)
+[<img align="left" width="22px" alt="Ranabir's Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ridetotheroots)
+[<img align="left" width="22px" alt="Ranabir's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ranabir-chakraborty-a71074b4/)
 
