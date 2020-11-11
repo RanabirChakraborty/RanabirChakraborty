@@ -1,9 +1,10 @@
 ### Hi there, I'm Ranabir - aka Ridetotheroots 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Checkout my recent blog [here](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to paint and sketch [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
+- ⚡ Fun fact: I love to paint and Photography [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
 - 💪 Fitness freak
+- 📺 All the Video Game lover
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
