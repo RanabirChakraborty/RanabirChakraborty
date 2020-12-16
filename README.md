@@ -8,7 +8,7 @@
 - 📺 All time Video Game lover
 - 👯 I’m looking to collaborate with other content creators
 
-### Connect with me:
+### Connect with me:  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" width="22px" alt="Ranabir's Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ridetotheroots/?hl=en)
 [<img align="left" width="22px" alt="Ranabir's Youtube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=E-S5o_UZFgw&t=1s)
