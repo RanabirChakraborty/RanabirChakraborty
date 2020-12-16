@@ -1,4 +1,4 @@
-### _“Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.”_<span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:blue">### _“Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.”_</span>
 
 <br />
 
@@ -23,9 +23,11 @@
 <br />
 
 ---
+
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=RanabirChakraborty.RanabirChakraborty" alt="Visitors">                     
 </p>
+
 ---
 
 <p align=center>
