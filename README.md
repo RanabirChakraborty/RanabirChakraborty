@@ -16,9 +16,10 @@
 [<img align="left" width="22px" alt="Ranabir's Linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ranabir-chakraborty-a71074b4/)
 [<img align="left" width="22px" alt="Ranabir's facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/ranabir.chakraborty218/)
 
+### _“Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.”_
 
-<br />
-
+---
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=RanabirChakraborty.RanabirChakraborty" alt="Visitors">                     
 </p>
+---
