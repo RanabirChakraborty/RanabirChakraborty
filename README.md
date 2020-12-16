@@ -1,3 +1,7 @@
+### _“Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.”_
+
+<br />
+
 ### Hi there, I'm Ranabir - aka Ridetotheroots <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <img align="right" height="230px" width="200px" alt="Ranabir" src="/ranabir_longhair.png" />
 
@@ -18,10 +22,8 @@
 
 <br />
 
-### _“Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.”_
 
 ---
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=RanabirChakraborty.RanabirChakraborty" alt="Visitors">                     
 </p>
----
