@@ -17,13 +17,3 @@
 [<img align="left" width="22px" alt="Ranabir's facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/ranabir.chakraborty218/)
 
 <br />
-
----
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=RanabirChakraborty.RanabirChakraborty" alt="Visitors">                     
-</p>
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
