@@ -2,7 +2,7 @@
 <img align="right" height="230px" width="200px" alt="Ranabir" src="/ranabir_longhair.png" />
 
 - 🌱 Checkout my recent blog [here](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should)
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Paint and Photograph [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
 - 💪 Strated taking Fitness seriously
 - 📺 All time Video Game lover
