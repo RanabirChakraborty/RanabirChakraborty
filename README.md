@@ -1,8 +1,8 @@
 ### Hi there, I'm Ranabir - aka Ridetotheroots <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🌱 Checkout my recent blogs [1](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should), [2](https://opensource.com/article/21/7/wildfly), [3](https://opensource.com/article/21/7/run-apps-wildfly)
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Paint and Photograph [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Paint and Photography [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
