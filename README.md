@@ -2,7 +2,7 @@
 
 - 🌱 Checkout my recent blogs [1](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should), [2](https://opensource.com/article/21/7/wildfly), [3](https://opensource.com/article/21/7/run-apps-wildfly)
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Paint and Photography [My Art Collection!](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
+- ⚡ Fun fact: I love to Paint and Photography [My Art Collection](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
