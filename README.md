@@ -7,8 +7,8 @@
 
 ### Connect with me:  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" width="22px" alt="Ranabir's Instagram" height="22px" src="[[[[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://img.icons8.com/?size=512&id=32323&format=png)](https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=256)](https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=avif&w=256)](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg)" />](https://www.instagram.com/ridetotheroots/?hl=en)
-[<img align="left" width="22px" alt="Ranabir's Youtube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=E-S5o_UZFgw&t=1s)
-[<img align="left" width="22px" alt="Ranabir's Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ridetotheroots)
-[<img align="left" width="22px" alt="Ranabir's Linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ranabir-chakraborty-a71074b4/)
-[<img align="left" width="22px" alt="Ranabir's facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/ranabir.chakraborty218/)
+[<img align="left" width="22px" alt="Ranabir's Instagram" height="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />](https://www.instagram.com/ridetotheroots/?hl=en)
+[<img align="left" width="22px" alt="Ranabir's Youtube" height="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" />](https://www.youtube.com/watch?v=E-S5o_UZFgw&t=1s)
+[<img align="left" width="22px" alt="Ranabir's Twitter" height="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />](https://twitter.com/Ridetotheroots)
+[<img align="left" width="22px" alt="Ranabir's Linkedin" height="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />](https://www.linkedin.com/in/ranabir-chakraborty-a71074b4/)
+[<img align="left" width="22px" alt="Ranabir's facebook" height="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" />](https://www.facebook.com/ranabir.chakraborty218/)
