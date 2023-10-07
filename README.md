@@ -1,5 +1,7 @@
 ### Hi there, I'm Ranabir - aka Ridetotheroots
 
+Software Engineer in Red Hat, works on Open Source project WildFly and WildFly Core which is providing JBoss EAP to the Enterprise community, also works on internal DevOps tools which provide continuous integration and continuous deployment to EAP and active part of the Red Hat Ansible Middleware initiative which brings automation to the Red Hat Runtimes suite of products.
+
 - 🌱 Checkout my recent blogs [1](https://dzone.com/articles/top-5-free-and-open-source-game-engines-you-should), [2](https://opensource.com/article/21/7/wildfly), [3](https://opensource.com/article/21/7/run-apps-wildfly), [4](https://www.wildfly.org/news/2023/09/27/Hacktoberfest-2023/)
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Paint and Photography [My Art Collection](https://github.com/Ridetotheroots/artwork/blob/master/README.md)
